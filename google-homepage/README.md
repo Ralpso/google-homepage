@@ -1,0 +1,1 @@
+In this assignment I will be basically copying the Google homepage and learning to use HTML and CSS
